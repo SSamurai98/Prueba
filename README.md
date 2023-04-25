@@ -1,2 +1,2 @@
 # Prueba
-Esto es una mierda
+Esto es una maravilla
